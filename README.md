@@ -10,4 +10,8 @@ The purpose of the stock-analysis in general is to analyze a handful of green en
 
 ![alt text](Performances/2017.png)         
 
+
+Based on the results of All Stocks in 2017, we can see that only one stock dropped 7.2 % and other stocks have augmented over the year.
+
+
 ![alt text](Performances/2018.png)
