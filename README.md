@@ -8,4 +8,4 @@ The purpose of the stock-analysis in general is to analyze a handful of green en
 ### Stocks Performance
 
 
-![ScreenShot](Stock Performance 2018.png)
+![ScreenShot](2018.png)
