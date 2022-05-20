@@ -21,8 +21,10 @@ Based on the results of All Stocks in 2018, we can see that only two stocks have
 
 ![alt text](Resources/VBA_Challenge_2017.png)
 
-uigyuiyuiygugyuig
+
 
 ![alt text](Resources/VBA_Challenge_2018.png)
 
-jiouighuiuu
+Above are the execution time of refactored script.
+
+
