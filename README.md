@@ -33,7 +33,7 @@ Above are the execution times of refactored Script.
 
 Above are the execution times of the Original Script
 
-We can easily see that the refactored Script has a better running time to the original Script!
+We can easily see that the refactored Script has a better running time than the original Script!
 
 ## Summary
 ### Advantages or disadvantages of refactoring code
