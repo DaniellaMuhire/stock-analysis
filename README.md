@@ -7,4 +7,4 @@ The purpose of the stock-analysis in general is to analyze a handful of green en
 ## Results
 ### Stocks Performance
 
-![alt text](Desktop/Stock Performance 2018.png)
+![ScreenShot](Desktop/Stock Performance 2018.png)
